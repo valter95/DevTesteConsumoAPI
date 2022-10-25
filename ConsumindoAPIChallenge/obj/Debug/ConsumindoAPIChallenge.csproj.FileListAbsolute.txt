@@ -1,0 +1,15 @@
+C:\Users\Valtinho\Programas\ConsumindoAPIChallenge\bin\Debug\ConsumindoAPIChallenge.exe.config
+C:\Users\Valtinho\Programas\ConsumindoAPIChallenge\bin\Debug\ConsumindoAPIChallenge.exe
+C:\Users\Valtinho\Programas\ConsumindoAPIChallenge\bin\Debug\ConsumindoAPIChallenge.pdb
+C:\Users\Valtinho\Programas\ConsumindoAPIChallenge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valtinho\Programas\ConsumindoAPIChallenge\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Valtinho\Programas\ConsumindoAPIChallenge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Valtinho\Programas\ConsumindoAPIChallenge\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Valtinho\Programas\ConsumindoAPIChallenge\obj\Debug\ConsumindoAPIChallenge.csprojAssemblyReference.cache
+C:\Users\Valtinho\Programas\ConsumindoAPIChallenge\obj\Debug\ConsumindoAPIChallenge.FrmPrincipal.resources
+C:\Users\Valtinho\Programas\ConsumindoAPIChallenge\obj\Debug\ConsumindoAPIChallenge.Properties.Resources.resources
+C:\Users\Valtinho\Programas\ConsumindoAPIChallenge\obj\Debug\ConsumindoAPIChallenge.csproj.GenerateResource.cache
+C:\Users\Valtinho\Programas\ConsumindoAPIChallenge\obj\Debug\ConsumindoAPIChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Valtinho\Programas\ConsumindoAPIChallenge\obj\Debug\ConsumindoAPIChallenge.csproj.CopyComplete
+C:\Users\Valtinho\Programas\ConsumindoAPIChallenge\obj\Debug\ConsumindoAPIChallenge.exe
+C:\Users\Valtinho\Programas\ConsumindoAPIChallenge\obj\Debug\ConsumindoAPIChallenge.pdb
